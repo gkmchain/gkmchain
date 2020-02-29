@@ -65,7 +65,7 @@
 
 Download https://github.com/gkmchain/gkmchain/gkm-win.zip
 Unzip win.zip and enter
-Execute the program using GKMWallet/gkmcore-cli.exe using the cmd command window
+install gkm-win.exe 
 
 #### start up
 
