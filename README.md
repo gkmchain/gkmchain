@@ -64,8 +64,7 @@
 ### installation
 
 Download https://github.com/gkmchain/gkmchain/gkm-win.zip
-Unzip win.zip and enter
-install gkm-win.exe 
+Unzip gkm-win.zip and install gkm-win.exe 
 
 #### start up
 
