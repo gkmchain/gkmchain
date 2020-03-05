@@ -32,6 +32,39 @@
 ./gkmcored -addnode=ip:port
 ```
 
+
+## Linux(centos) node
+
+### installation
+
+ Download the executable program for the linux version:
+
+ https://github.com/gkmchain/gkmchain/gkm-centos-7+.zip
+
+
+
+  Execute the program using GKMWallet/gkmcore-cli using the terminal command window
+  If you want to run the program more conveniently, you can copy the executable to /usr/lib and use chmod to delegate it, you can use the GKMWallet/gkmcore-cli program in any directory.
+
+#### start up
+
+` ./gkmcored` 
+
+#### Excuting an order
+
+` ./gkmcore-cli command `
+
+#### Stop node
+
+` ./gkmcore-cli stop `
+
+#### Connect to the specified node at startup
+
+```bash
+./gkmcored -addnode=ip:port
+```
+
+
 ## mac node
 
 ### installation
